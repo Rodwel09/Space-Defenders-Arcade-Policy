@@ -1,6 +1,6 @@
 # Space Defenders: Arcade Terms of Service
 
-**Last updated:** [DATE YOU PUBLISH THIS]
+**Last updated:** 11/7/2026
 
 These terms are an agreement between you and NeoDarkGames ("we", "us") covering your use of Space Defenders: Arcade (the "game") on iOS and Android. By downloading or playing the game, you agree to these terms. If you do not agree, please do not play the game and delete it from your device.
 
