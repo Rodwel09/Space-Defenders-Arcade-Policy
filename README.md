@@ -1,46 +1,71 @@
-# Space-Defenders-Arcade-Policy
-Policy for Space Defenders - Arcade - Game - IOS/Android
+Space Defenders: Arcade Privacy Policy
+Last updated: 11/7/2026
 
-Privacy Policy
+This policy explains what data Space Defenders: Arcade (the "game") collects on iOS and Android, how it is used, and the choices you have. The game is published by NeoDarkGames ("we", "us"). The game is free and is paid for by advertising.
 
-Space Defenders Arcade, we value our customers and respect thier privacy. We only colect as little of customer information as posible in an effort ot provide you with a great gaming experience.
+Your privacy choice
+The first time you open the game, a popup asks you to Accept or Decline. You can change your answer at any time with the Privacy button in the main menu.
 
-PERSONAL INFORMATION WE COLLECT
+If you tap Accept	If you tap Decline
+Ads	Ads may be personalized, using data from your device	You still see ads, but they are not personalized and will be less relevant
+Gameplay statistics	Collected through Unity Analytics	Not collected
+Advertising and analytics do not start until you have answered. If you change your mind later, the new choice applies from then on. It does not change ads that have already loaded.
 
-When you download the app, we collect certain information about your device, including information about your Android ID, IP Address, time zone, and some of the cookies that are installed in your device. We refered to this automatically-collected information as 'Device Information'.
+Data collected
+Stored only on your device
+The game saves the following on your device, and we do not receive it:
 
-WE COLLECT DEVICE INFORMATION USING THESE TECHNOLOGIES:
+Your best score, the date you achieved it, and the name you enter for the leaderboard
+Your privacy choice
+This data is removed when you delete the game.
 
-Unity Ads has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies.
+Collected by advertising partners
+To show ads, our advertising partners may automatically collect:
 
-For clarity, Unity collects the following data: whether you click or tap an ad for a new game, whether you watch the ad or play a game frequently, whether others playing a game like the one you’re playing have downloaded a particular new game, and whether you download and install the new game you see advertised.
+Advertising identifiers, such as Apple's IDFA (only if you allow tracking on iOS) and Google's Advertising ID
+Other device and app information, such as device model, operating system, language, and app version
+IP address and approximate location derived from it
+Information about ads, such as which ads were shown and whether you clicked them
+We use this data to show ads, measure them, and earn revenue from them. Partners may use it for advertising purposes as described in their own policies, which also explain how long they keep it.
 
-Where a developer has enabled certain features, Unity Ads may also collect your session information and monetization events.
+Collected through Unity Analytics (only if you accept)
+Gameplay events: when a game starts and ends, whether you won or lost, your score, time played, boss encounters, power-ups collected, and new high scores
+Ad revenue data: the ad network, ad type, and estimated revenue for ads shown
+Technical data: information such as a randomly generated identifier, device type, operating system, and session information
+We use this data to understand how the game is played and to improve it. Your leaderboard name is not sent with these events.
 
-All of this is for purposes of predicting the types of new games that you might like to download.
+Who receives data
+Partner	Purpose	Privacy policy
+Unity (LevelPlay ad mediation, Unity Ads, Unity Analytics)	Choosing and showing ads, advertising, analytics	Unity game player privacy policy
+Google AdMob	Advertising	Google privacy policy, how Google uses data from partner apps
+Meta Audience Network	Advertising	Meta privacy policy
+Mintegral	Advertising	Mintegral privacy policy
+Liftoff (Vungle)	Advertising	Liftoff privacy policy
+These companies may process data in countries other than your own. We do not sell your data for money. However, sharing data with advertising partners may count as "selling" or "sharing" personal information under some laws, including California's. See "US state privacy rights" below.
 
-Unity may track additional data about you in the future for purposes of making these types of predictions, and we will notify you prior to new data collection.
+Controlling tracking and ads
+Privacy button: tap Privacy in the main menu to accept or decline.
+iOS tracking: the game shows Apple's App Tracking Transparency prompt. To change your answer later, go to Settings ▸ Privacy & Security ▸ Tracking. Your advertising identifier is only available to ad partners if you allow tracking.
+Android advertising ID: you can reset or delete it in your device's Settings ▸ Privacy ▸ Ads. The exact path varies by device.
+European privacy rights (EEA, UK, and Switzerland)
+We rely on your consent for personalized advertising and analytics. You can withdraw it at any time with the Privacy button. Withdrawing does not affect anything done before you changed your choice.
 
-HOW DO WE USE THE INFORMATION COLLECTED:
+You may have the right to access, correct, delete, restrict, or object to the processing of your personal data, and to receive a copy of it. You can also complain to your local data protection authority.
 
-Using it for Ad tracking, and displaying ads for monetary propuses.
+US state privacy rights
+Residents of California and some other US states may have the right to know what personal information is collected, to request its deletion or correction, and to opt out of its "sale" or "sharing" for targeted advertising. To opt out, tap Privacy in the main menu and choose Decline. We will not treat you differently for exercising these rights.
 
-SHARING YOUR INFORMATION:
+Making a request
+Email us at the address below to make a privacy request. The game does not ask for your name or an account, so we may need details from you to find any data linked to your device, and we may not always be able to identify it. For data held by our partners, you can also contact them directly using the links above.
 
-We do not sell, trade or transfer to outside parties your personal information. This does not include trusted third parties that are helping us use your information, to assist us in increasing value of the gameplay expirience.
+Children
+The game is not directed to children under 13, and we do not knowingly collect personal information from them. If you believe a child has provided personal information, please contact us and we will help remove it.
 
-Our third parties includes, for examples:
+Security
+No method of storing or sending data is completely secure. The game does not ask for an account or password, and it only stores the items listed above on your device.
 
-Unity: We use unity as the main game engine for the game. Check policies of the engine here: https://unity3d.com/legal/privacy-policy
+Changes to this policy
+We may update this policy when the game or our partners change. We will post the new version at this address and update the date at the top. Significant changes may also be announced in the game.
 
-DATA RETENTION:
-
-The only data for retention is the settings and save states of the game. The game saves the progress of the player automatically. that data delete it once the app is remove of the device.
-
-CHANGES:
-
-We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
-
-Contact Us:
-
-For more information about our privacy practices, if you have questions or if you like to transmit a complaint, please contact me by the email at rodwelpm09@gmail.com
+Contact
+NeoDarkGames Email: rodwelpm09@gmail.com
