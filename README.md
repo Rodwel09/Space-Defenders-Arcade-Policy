@@ -1,6 +1,6 @@
 # Space Defenders: Arcade Privacy Policy
 
-**Last updated:** [DATE YOU PUBLISH THIS]
+**Last updated:** 11/7/2026
 
 This policy explains what data Space Defenders: Arcade (the "game") collects on iOS and Android, how it is used, and the choices you have. The game is published by NeoDarkGames ("we", "us"). The game is free and is paid for by advertising.
 
